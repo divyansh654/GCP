@@ -1,5 +1,7 @@
 # Optimize Costs for Google Kubernetes Engine: Challenge Lab
 
+# To perform this lab you need to update your cluster the you can do it
+
 ## Task 1: Create our cluster and deploy our app
 
 Make sure that you:
